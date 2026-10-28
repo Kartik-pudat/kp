@@ -15,6 +15,6 @@ int main() {
         }
     }
 
-    printf("No pair found\n");
+    printf("Nothing found\n");
     return 0;
 }
